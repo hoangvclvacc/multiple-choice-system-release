@@ -1,4 +1,4 @@
-# Hệ thống luyện tập trắc nghiệm
+# Hệ thống luyện tập trắc nghiệm dành cho các bạn sinh viên luyện tập đang học tại VAU được làm ra bởi D.Hoang
 
 Phần mềm luyện tập và làm bài trắc nghiệm trên Windows, **miễn phí**, làm ra để hỗ trợ mọi người ôn tập.
 Không cần tài khoản, không cần máy chủ, **chạy được khi không có mạng**.
